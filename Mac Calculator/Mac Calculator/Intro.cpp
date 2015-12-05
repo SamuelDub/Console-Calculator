@@ -12,7 +12,7 @@ void Intro() {
 	cout << "Hello and welcome to my calculator!" << endl;
 	cout << "Would you like to do?" << endl;
 	cout << "(You can: add, subtract, multiply, divide, square, the square root, exponentiate, and mod!)" << endl;
-	cout << "For a limited time only type celebrate!" << endl;
+	//cout << "For a limited time only type celebrate!" << endl;
 	cout << "In order to exponentiate a number type exponent" << endl;
 	cout << "In order to find the square root please type root." << endl;
 	cout << "Divison is the only function that supports decimals currently." << endl;
