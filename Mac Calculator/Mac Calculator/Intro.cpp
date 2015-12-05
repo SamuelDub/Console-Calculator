@@ -6,7 +6,7 @@ void Intro() {
 
 	using namespace std;
 
-	cout << "Samuel Dubner Word Calculator Copyright 2015 v10.0" << endl;
+	cout << "Samuel Dubner Word Calculator Copyright 2015 v0.1" << endl;
 	cout << "Due to the calculator being in beta there may be bugs!" << endl;
 	cout << "Entering something besides a number or too large a number when asked will result in an infinite loop." << endl;
 	cout << "Hello and welcome to my calculator!" << endl;
