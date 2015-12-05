@@ -1,10 +1,20 @@
-﻿Build started 11/29/2015 4:14:05 PM.
-     1>Project "C:\Users\Sam Dubner\Documents\Visual Studio 2015\Projects\Mac Calculator\Mac Calculator\Mac Calculator.vcxproj" on node 2 (Build target(s)).
+﻿Build started 12/5/2015 11:36:33 AM.
+     1>Project "C:\Users\Sam Dubner\Desktop\Console-Calculator\Mac Calculator\Mac Calculator\Mac Calculator.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Subtraction.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Addition.cpp Division.cpp Exponentiate.cpp Intro.cpp Main.cpp Mod.cpp Multiplication.cpp Root.cpp Squaring.cpp Subtraction.cpp
          Subtraction.cpp
+         Squaring.cpp
+         Root.cpp
+         Multiplication.cpp
+         Mod.cpp
+         Main.cpp
+         Intro.cpp
+         Exponentiate.cpp
+         Division.cpp
+         Addition.cpp
+         Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sam Dubner\Documents\Visual Studio 2015\Projects\Mac Calculator\Debug\Mac Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Sam Dubner\Documents\Visual Studio 2015\Projects\Mac Calculator\Debug\Mac Calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sam Dubner\Documents\Visual Studio 2015\Projects\Mac Calculator\Debug\Mac Calculator.lib" /MACHINE:X86 Debug\Addition.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sam Dubner\Desktop\Console-Calculator\Mac Calculator\Debug\Mac Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Sam Dubner\Desktop\Console-Calculator\Mac Calculator\Debug\Mac Calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sam Dubner\Desktop\Console-Calculator\Mac Calculator\Debug\Mac Calculator.lib" /MACHINE:X86 Debug\Addition.obj
          Debug\Division.obj
          Debug\Exponentiate.obj
          Debug\Intro.obj
@@ -14,9 +24,9 @@
          Debug\Root.obj
          Debug\Squaring.obj
          Debug\Subtraction.obj
-         Mac Calculator.vcxproj -> C:\Users\Sam Dubner\Documents\Visual Studio 2015\Projects\Mac Calculator\Debug\Mac Calculator.exe
-     1>Done Building Project "C:\Users\Sam Dubner\Documents\Visual Studio 2015\Projects\Mac Calculator\Mac Calculator\Mac Calculator.vcxproj" (Build target(s)).
+         Mac Calculator.vcxproj -> C:\Users\Sam Dubner\Desktop\Console-Calculator\Mac Calculator\Debug\Mac Calculator.exe
+     1>Done Building Project "C:\Users\Sam Dubner\Desktop\Console-Calculator\Mac Calculator\Mac Calculator\Mac Calculator.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.94
+Time Elapsed 00:00:04.95

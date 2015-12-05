@@ -61,7 +61,7 @@ int main() {
 			return 0;
 
 		}
-		else if (t == "celebrate" || t == "Celebrate" || t == "CELEBRATE") {
+		/*else if (t == "celebrate" || t == "Celebrate" || t == "CELEBRATE") {
 
 			int times = 0;
 
@@ -75,7 +75,7 @@ int main() {
 
 			}
 
-		}
+		}*/
 
 	}
 
