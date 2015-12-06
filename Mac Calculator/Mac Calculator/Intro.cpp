@@ -1,6 +1,8 @@
 #include "CalFun.h"
 #include <iostream>
 #include <string>
+#include <chrono>
+#include <thread>
 
 void Intro() {
 
@@ -17,5 +19,6 @@ void Intro() {
 	cout << "In order to find the square root please type root." << endl;
 	cout << "Divison is the only function that supports decimals currently." << endl;
 	cout << "In order to close this window when you are finished with everything, type done and click enter to close the window!" << endl;
+	this_thread::sleep_for(chrono::milliseconds(10000));
 	
 }
